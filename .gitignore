@@ -1,0 +1,10 @@
+# Binaries
+go-concurrency-playground
+*.exe
+*.test
+*.out
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
